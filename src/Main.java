@@ -6,7 +6,7 @@ public class Main {
             System.out.println(x + y);
 
         int a = 2;
-        String c = "ciao";
+        String c = "venti";
             System.out.println(a + c);
     }
 }
